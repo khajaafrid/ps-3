@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+  }
+  .menu ul li {
+    padding-right: 95px;
+  }
+  .line {
+    width: 110%;
+    height: 1px;
+    background-color: grey;
+  }
+  .check .J {
+    display: flex;
+    justify-content: space-between;
+  }
+  .menu ul li {
+    cursor: pointer;
+  }
+  span {
+    font-weight: 400;
+  }
+  
